@@ -27,7 +27,7 @@
   </distributionManagement>
   
   <properties>
-     <repository.server.root>http://52.66.189.107:8081/repository</repository.server.root>
+     <repository.server.root>http://localhost:8081/repository</repository.server.root>
      <releases.distribution.url>
         ${repository.server.root}/test-releases/
      </releases.distribution.url>
